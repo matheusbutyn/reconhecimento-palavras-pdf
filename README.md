@@ -4,9 +4,7 @@ Aplicativo desktop em Python, com interface feita em [CustomTkinter](https://git
 
 Cada linha encontrada é exibida em um cartão, com **cada palavra separada em um bloco**, o que facilita ler as "colunas" da tabela e copiar só a informação que interessa.
 
-<!-- Adicione um print da tela aqui:
 ![Captura de tela](screenshot_leitor.png)
--->
 
 ## Funcionalidades
 
